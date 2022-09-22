@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module-content version="12.2">
+    <module id="56851da5-77e1-4e1f-8ba9-c83cb360af37" name="gsearch">
+        <resource path="src\AppServer" publish="true"/>
+    </module>
+</module-content>
